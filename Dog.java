@@ -66,7 +66,7 @@ class Dog implements Cloneable
 		System.out.println(d1.c.x+ " " +d1.y);
 	}
 	
-	
+	New Changes 
 	
 }
 		
